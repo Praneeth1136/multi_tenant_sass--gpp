@@ -1,7 +1,7 @@
 # Multi-Tenant SaaS Application
 
 A production-ready, multi-tenant SaaS application where multiple organizations (tenants) can independently register, manage their teams, create projects, and track tasks.
-
+ 
 ## Features
 
 - **Multi-Tenancy**: Complete data isolation with unique subdomains per tenant.
